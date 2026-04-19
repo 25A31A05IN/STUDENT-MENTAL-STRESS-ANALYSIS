@@ -1,0 +1,38 @@
+Step 1:  
+Initialize variables:
+totalScore = 0
+choice for user input
+
+Step 2:  
+Start a loop from q = 1 to 9 (for 9 questions).
+
+Step 3:  
+Display the current question number and its options.
+
+Step 4:  
+Read the user’s answer (choice).
+
+Step 5:  
+Use a switch statement to identify which question is being asked.
+
+Step 6:  
+Assign a score based on the user’s choice for that question.
+Example: If Question 1 → choice = 2 (Graduation), add 4 points to totalScore.
+
+Step 7:  
+Add the assigned score to totalScore.
+
+Step 8:  
+Repeat Steps 3–7 until all 9 questions are answered.
+
+Step 9:  
+After the loop ends, display the final totalScore.
+
+Step 10:  
+Classify stress level based on totalScore:
+If totalScore <= 15 → Stress Level: LOW
+If totalScore <= 30 → Stress Level: MODERATE
+Else → Stress Level: HIGH
+
+Step 11:  
+Print the stress level and end the program.
