@@ -1,0 +1,14 @@
+The program starts by initializing the stress score to zero.
+A set of nine stress-related questions is presented to the user one by one.
+Each question focuses on factors affecting student mental stress, such as education level, academic workload, exam frequency, family support, bullying, job opportunities, financial condition, and personal relationships.
+The user selects one answer from the available options for every question.
+Each selected answer is assigned a predefined score based on its stress impact.
+Lower stress-related answers receive lower scores, while higher stress-related answers receive higher scores.
+The score of each answer is added to the total stress score.
+This process continues until all nine questions are completed.
+After collecting all responses, the total stress score is calculated.
+The final score is analyzed to determine the stress level of the student.
+If the score is low, the result is classified as Low Stress.
+If the score is in the middle range, the result is classified as Moderate Stress.
+If the score is high, the result is classified as High Stress.
+Finally, the total stress score and stress level are displayed as output.
